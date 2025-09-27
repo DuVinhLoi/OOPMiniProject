@@ -1,3 +1,4 @@
+//User: admin0 pass:123 đã có sẵn trong file
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.ObjectInputStream;
@@ -308,3 +309,4 @@ public class Main {
         } while (luaChon != 0);
     }
 }
+
